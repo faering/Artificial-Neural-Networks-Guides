@@ -1,0 +1,5 @@
+# ingore .DS_Store files
+.DS_Store
+
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints
